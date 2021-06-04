@@ -1,0 +1,19 @@
+{
+  "name": "gmail_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "avinash",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "googleapis": "^39.2.0",
+    "mongoose": "^5.12.12",
+    "opn": "^6.0.0"
+  }
+}
