@@ -2,6 +2,8 @@
 
 This project is an API in NodeJS using express to send emails using the Gmail REST API
 
+Add your credential.json file and use this
+
 # Installation
 - Download and extract Zip file.
 - Change directory to downloaded folder.
