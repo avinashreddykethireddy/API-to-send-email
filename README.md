@@ -1,4 +1,4 @@
-# RESTful-API-to-send-email
+# API-to-send-email
 
 This project is an API in NodeJS using express to send emails using the Gmail REST API
 
